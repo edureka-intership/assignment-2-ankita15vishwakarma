@@ -1,0 +1,55 @@
+.logo {
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    background: white;
+    width: 105px;
+    height: 113px;
+    border-radius: 50%;
+    position: absolute;
+    top: 20%;
+    margin-left: 43%;
+    font-family: Poppins;
+    font-weight: bold;
+  }
+  .headings {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: normal;
+    position: relative;
+    margin: auto;
+    font-size: 36px;
+    top: -260px;
+  }
+ 
+  .location{
+    top: -240px;
+position: relative;
+  margin-left: 80%;
+  width: 60%; 
+  }
+  
+  .formselect{
+    top: -400px;
+    position: absolute;
+    margin-left: 20%;
+  }
+  .insert{
+    top:-240px ;
+    position: relative;
+    padding: 1px;
+    margin: 2px;
+    width: 40%;
+  }
+
+svg{
+  position:relative;
+  top: -240px;
+  background-color: aliceblue;
+  padding:1px;
+  margin-left:1px;
+  font-size:100px;
+  box-sizing:content-box;
+}
+  
